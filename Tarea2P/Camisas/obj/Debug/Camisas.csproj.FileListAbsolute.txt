@@ -1,0 +1,7 @@
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Camisas\bin\Debug\Camisas.exe.config
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Camisas\bin\Debug\Camisas.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Camisas\bin\Debug\Camisas.pdb
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Camisas\obj\Debug\Camisas.csproj.AssemblyReference.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Camisas\obj\Debug\Camisas.csproj.CoreCompileInputs.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Camisas\obj\Debug\Camisas.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Camisas\obj\Debug\Camisas.pdb

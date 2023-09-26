@@ -1,0 +1,7 @@
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Tarea2P\bin\Debug\Tarea2P.exe.config
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Tarea2P\bin\Debug\Tarea2P.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Tarea2P\bin\Debug\Tarea2P.pdb
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Tarea2P\obj\Debug\Producto.csproj.AssemblyReference.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Tarea2P\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Tarea2P\obj\Debug\Tarea2P.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Tarea2P\obj\Debug\Tarea2P.pdb

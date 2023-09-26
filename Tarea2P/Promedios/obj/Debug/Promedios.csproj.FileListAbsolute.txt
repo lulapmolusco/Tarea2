@@ -1,0 +1,7 @@
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Promedios\bin\Debug\Promedios.exe.config
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Promedios\bin\Debug\Promedios.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Promedios\bin\Debug\Promedios.pdb
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Promedios\obj\Debug\Promedios.csproj.AssemblyReference.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Promedios\obj\Debug\Promedios.csproj.CoreCompileInputs.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Promedios\obj\Debug\Promedios.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Tareas\Tarea2P\Promedios\obj\Debug\Promedios.pdb
